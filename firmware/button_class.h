@@ -2,7 +2,7 @@
 #define button_class
 
 #include "application.h"
-#include "DigoleSerialDisp.h"
+#include "DigoleDisp.h"
 
 struct coord {
     int x;
